@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there I'm Michael Okeme 👋
+
+I'm a Frontend Developer and Computer Science graduate focused on building responsive, accessible and user-friendly web applications.
+
+I work primarily with JavaScript, TypeScript, React and Tailwind CSS. 👋
 
 <!--
 **jasinMiles/jasinMiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
