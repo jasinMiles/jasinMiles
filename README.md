@@ -2,19 +2,41 @@
 
 I'm a Frontend Developer and Computer Science graduate focused on building responsive, accessible and user-friendly web applications.
 
-I work primarily with JavaScript, TypeScript, React and Tailwind CSS. 👋
+I work primarily with JavaScript, React and Tailwind CSS. 👋
 
-<!--
-**jasinMiles/jasinMiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- HTML5
+- CSS3
+- JavaScript
+- 
+
+### Frontend
+- React
+- Tailwind CSS
+- Responsive Web Design
+
+### Tools
+- Git
+- GitHub
+- Vite
+- REST APIs
+
+## 🚀 Featured Projects
+
+### FlowPay
+A responsive fintech dashboard built with React, TypeScript and Tailwind CSS.
+
+### JobTrack
+A job application tracking application built with React and TypeScript.
+
+### E-Commerce Store
+A responsive e-commerce application with product browsing, search and cart functionality.
+
+## 📫 Connect With Me
+
+- LinkedIn:
+- Email: Avwerosuokeme@gmail.com
+- Portfolio: 
