@@ -39,7 +39,5 @@ A responsive e-commerce application with product browsing, search and cart funct
 
 
 ## 📫 Connect With Me
-Email: Avwerosuokeme@gmail.com
-
-- LinkedIn: [Michael Okeme](...)
+- LinkedIn: 
 - Email: Avwerosuokeme@gmail.com
